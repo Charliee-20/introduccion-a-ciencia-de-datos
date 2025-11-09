@@ -8,7 +8,7 @@ x, y = 10, 3
 print("Suma:", x + y)              # 13
 print("Resta:", x - y)             # 7
 print("Multiplicación:", x * y)    # 30
-print("Divisiónnnn /:", x / y)        # 3.333...
+print("Divisiónn /:", x / y)        # 3.333...
 
 # División entera (floor) y módulo
 print("División entera //:", x // y)  # 3
