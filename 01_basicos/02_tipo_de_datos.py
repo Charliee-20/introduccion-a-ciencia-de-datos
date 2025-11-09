@@ -14,7 +14,7 @@ activo = True        # bool (booleano)
 
 
 
-print("Datos personales:")
+print("Datos personales muchos:")
 print(nombre, edad, altura, activo)
 print()  # línea vacía
 
